@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: shibli.me
+title: www.shibli.me
 
 # Your name to show in the footer
 author: Sabbir Ahmed Sibli
@@ -15,9 +15,9 @@ author: Sabbir Ahmed Sibli
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Blog:
+    - Personal: "#"
+    - Technincal: "#"
   Author's home: "#"
 
 # --- Logo --- #
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "shibli.me"
+url-pretty: "www.shibli.me"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
