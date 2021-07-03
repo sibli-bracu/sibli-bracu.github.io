@@ -2,7 +2,7 @@
 layout: post
 title: সাক্ষী কিছু সোডিয়াম আলোর ল্যাম্পপোস্ট
 subtitle: Sabbir Ahmed Sibli
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/holding_hand.jpg
 thumbnail-img: /assets/img/holding_hand.jpg
 share-img: /assets/img/holding_hand.jpg
 tags: [story, fiction]
