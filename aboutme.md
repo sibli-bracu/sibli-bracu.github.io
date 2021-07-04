@@ -19,7 +19,7 @@ subtitle: You are welcome to explore me!
 
 - Passing Year (Expected): 2022
 
-## Bachelor of Science in Engineering (B.Sc. Engg.):
+### Bachelor of Science in Engineering (B.Sc. Engg.):
 
 - Discipline: Computer Science & Engineering
 
@@ -29,7 +29,7 @@ subtitle: You are welcome to explore me!
 
 - Passing Year: March 2019
 
-## Higher Secondary Certificate (H.S.C.):
+### Higher Secondary Certificate (H.S.C.):
 
 - Discipline: General Sciences
 
@@ -37,7 +37,7 @@ subtitle: You are welcome to explore me!
 
 - Passing Year: 2014
 
-## Secondary Certificate (S.S.C.):
+### Secondary Certificate (S.S.C.):
 
 - Discipline: General Sciences
 
@@ -47,12 +47,12 @@ subtitle: You are welcome to explore me!
 
 <div align="center"><h1>Works & Experiences</h1></div>
   
-## Lecturer (September 2019 – Present)
+### Lecturer (September 2019 – Present)
 Department of Computer Science and Engineering\
 Fareast International University, Dhaka, Bangladesh
-## System Analyst (May 2019 - September 2019)
+### System Analyst (May 2019 - September 2019)
 Meroza Limited, Banasree, Dhaka, Bangladesh
-## Management Trainee Officer, Marketing Analysis Division (January 2019 - May 2019)
+### Management Trainee Officer, Marketing Analysis Division (January 2019 - May 2019)
 AirAsia GSA Bangladesh, Dhaka, Bangladesh
 
 <div align="center"><h1>Achievements</h1></div>
