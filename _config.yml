@@ -16,8 +16,8 @@ author: Sabbir Ahmed Sibli
 navbar-links:
   About Me: "aboutme"
   Blog:
-    - Personal: "#"
-    - Technincal: "#"
+    - Personal: "personal-blog"
+    - Technincal: "technical-blog"
   Contact: "contact"
 
 # --- Logo --- #
