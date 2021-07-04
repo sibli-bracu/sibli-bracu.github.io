@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Contact Me
-subtitle: Contact Me!
+subtitle: Find Me Here!
 ---
 
 <div align="center"><h1>Detailed Contact Information</h1></div>
 <div align="center">
-  <ul>
-    <li>Email: sabbirshibli@gmail.com</li>
-    <li>Phone: +88 017 22117769</li>
-  </ul>
+  <b>Email:</b> sabbirshibli@gmail.com</br>
+  <b>Phone:</b> +88 017 22117769</b>
 </div>
